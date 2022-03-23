@@ -1,6 +1,6 @@
 # computervsion_classification
 
-## 1. Resnet model ![Resnet-model](https://github.com/minigoom/computervsion_classification/blob/main/Resnet%20model.ipynb)
+## 1.![Resnet-model](https://github.com/minigoom/computervsion_classification/blob/main/Resnet%20model.ipynb)
 - Resnet 34, Resnet 50 모델 구현
 - plain 34, plain 50 모델 구현
 - tensorflow dataset cat vs dog data를 이용하여 성능을 평가해봄
