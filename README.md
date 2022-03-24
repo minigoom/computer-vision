@@ -14,6 +14,7 @@ classification 모델을 구현합니다.
   - size : 28 x 28
   - 60,000 train data, 10,000 test data
 - cnn 활용하여 모델 구현
-  - 하이퍼 파라미터 수정전: 0.9899
-  - 하이퍼 파리미터 수정후: 0.9901
-
+  - 하이퍼파라미터 수정전: 0.9899
+  - 하이퍼파리미터 수정후: 0.9901
+- 모든면에서 하이퍼파라미터 수정후(after)가 수정전(before) 보다 뛰어나다.
+![image](https://user-images.githubusercontent.com/97006756/159900197-e041cd66-c2de-419e-a7cb-dd3b84cd4475.png)
