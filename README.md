@@ -28,7 +28,7 @@ classification 모델을 다양한 모델, 방식을 적용하여 구현합니�
   - 모델을 생성하는 함수 구현
 - 모델이 전제척으로 VGG16이 VGG19보다 좋게 측정되었다.
 
-# 4 apply Augmentation, cutmix, mixup to resnet50 model [[GitHub link]](https://github.com/minigoom/computervsion_classification/blob/main/augmentation%2Ccutmix%2C%20mixup%20with%20resnet50.ipynb)
+# 4 apply Augmentation, cutmix, mixup to resnet50 model  [[GitHub link]](https://github.com/minigoom/computervsion_classification/blob/main/augmentation%2Ccutmix%2C%20mixup%20with%20resnet50.ipynb)
 - dataset
   - standford dog
 - augmentation 적용
