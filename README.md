@@ -36,4 +36,4 @@ classification 모델을 다양한 모델, 방식을 적용하여 구현합니�
   - random_brightness 
 - cutmix 적용
 - mixup 적용
-- mixup, cutmix 를 사용하였을때 accuracy가 더 낮게 학습되었다. 그래서 학습을 더 시키면 성능이 좋아지지 않을까? 라는 생각을 하였고 epoch = 50 으로 학습시켰다. 하지만 별로 차이가 있는 결과를 얻지 못하였다.[[Github link]](https://github.com/minigoom/computervsion_classification/blob/main/agumentation%2C%20cutmix%2C%20mixup%20with%20resnet50(epoch%2050).ipynb)
+- mixup, cutmix 를 epoch= 20으로 학습하였을때 accuracy가 더 낮게 학습되었다. 그래서 학습을 더 시키면 성능이 좋아지지 않을까? 라는 생각을 하였고 epoch = 50 으로 학습시켰다. 하지만 별로 차이가 있는 결과를 얻지 못하였다.[[Github link]](https://github.com/minigoom/computervsion_classification/blob/main/agumentation%2C%20cutmix%2C%20mixup%20with%20resnet50(epoch%2050).ipynb)
